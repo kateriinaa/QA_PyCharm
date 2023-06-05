@@ -3,4 +3,4 @@ def summa(a, b):
 
 
 if __name__ == '__main__':
-    print(summa(2,2))
+    print("Summa: ", summa(2,2))

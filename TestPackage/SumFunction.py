@@ -1,4 +1,7 @@
 def summa(a, b):
+    """
+    Return sum of a and b
+    """
     return a + b
 
 
